@@ -1,0 +1,83 @@
+﻿  function.cpp
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(17,59): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(27,31): warning C4244: '/=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(37,21): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(58,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(59,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(53,19): warning C4101: 'r': unreferenced local variable
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(279,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(283,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(284,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(288,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(288,107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(306,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(324,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(332,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(337,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(354,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(354,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(358,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(370,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(376,37): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(380,42): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(387,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(403,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(407,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(428,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(439,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(441,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(442,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(448,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(448,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(450,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(451,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(455,65): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(455,55): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(455,40): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(457,65): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(457,55): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+D:\opencv\ComputerVision-CornerDetection\19127064_Lab03\function.cpp(457,40): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+  main.cpp
+  Generating code
+  1 of 567 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  19127064_Lab03.vcxproj -> D:\opencv\ComputerVision-CornerDetection\x64\Release\19127064_Lab03.exe
